@@ -4,23 +4,23 @@
       {
          "geometry" : {
             "location" : {
-               "lat" : 41.6503721,
-               "lng" : 2.7391041
+               "lat" : 38.99182182302358,
+               "lng" : -77.10098100413643
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 41.6517951802915,
-                  "lng" : 2.740249130291502
+                  "lat" : 38.99182182302358,
+                  "lng" : -77.10098100413643
                },
                "southwest" : {
-                  "lat" : 41.6490972197085,
-                  "lng" : 2.737551169708498
+                  "lat" : 38.99182182302358,
+                  "lng" : -77.10098100413643
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
          "id" : "e4d2b4caccffaf5bdc06816cf5f682d3c05ac9b4",
-         "name" : "Parc polivalent Francesc Macià",
+         "name" : "Battery Lane Urban Park",
          "opening_hours" : {
             "open_now" : true
          },
@@ -48,23 +48,23 @@
       {
          "geometry" : {
             "location" : {
-               "lat" : 41.6480954,
-               "lng" : 2.7402114
+               "lat" : 39.00488076062171,
+               "lng" : -77.11590667965629
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 41.64944438029149,
-                  "lng" : 2.741560380291502
+                  "lat" : 39.00488076062171,
+                  "lng" : -77.11590667965629
                },
                "southwest" : {
-                  "lat" : 41.6467464197085,
-                  "lng" : 2.738862419708498
+                  "lat" : 39.00488076062171,
+                  "lng" : -77.11590667965629
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
          "id" : "f046330d5ec31ec2cae9b6d477117db97576e377",
-         "name" : "Парк Кастель",
+         "name" : "Ayrlawn Park",
          "opening_hours" : {
             "open_now" : true
          },
@@ -92,23 +92,23 @@
       {
          "geometry" : {
             "location" : {
-               "lat" : 41.6485716,
-               "lng" : 2.7406972
+               "lat" : 39.011469605173836,
+               "lng" : -77.13057467826872
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 41.6499522302915,
-                  "lng" : 2.741945630291502
+                  "lat" : 39.011469605173836,
+                  "lng" : -77.13057467826872
                },
                "southwest" : {
-                  "lat" : 41.6472542697085,
-                  "lng" : 2.739247669708498
+                  "lat" : 39.011469605173836,
+                  "lng" : -77.13057467826872
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
          "id" : "1d9d44498dfbe21c0648ac84bb744f8c0b504fe4",
-         "name" : "Parc del Castell",
+         "name" : "Wyngate Woods Neighborhood Park",
          "opening_hours" : {
             "open_now" : true
          },
@@ -136,23 +136,23 @@
       {
          "geometry" : {
             "location" : {
-               "lat" : 41.65036889999999,
-               "lng" : 2.7387012
+               "lat" : 38.98263653805963,
+               "lng" : -77.09883366061473
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 41.6517330802915,
-                  "lng" : 2.740008330291502
+                  "lat" : 38.98263653805963,
+                  "lng" : -77.09883366061473
                },
                "southwest" : {
-                  "lat" : 41.6490351197085,
-                  "lng" : 2.737310369708498
+                  "lat" : 38.98263653805963,
+                  "lng" : -77.09883366061473
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
          "id" : "505e61fd02e5c93f011df301919f0563629e9b4a",
-         "name" : "Parque De MALGRAT",
+         "name" : "Caroline Freeland Urban Park",
          "opening_hours" : {
             "open_now" : true
          },
