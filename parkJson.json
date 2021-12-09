@@ -20,7 +20,7 @@
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
          "id" : "e4d2b4caccffaf5bdc06816cf5f682d3c05ac9b4",
-         "name" : "Battery Lane Urban Park",
+         "name" : "Battery Lane Park",
          "opening_hours" : {
             "open_now" : true
          },
@@ -98,7 +98,7 @@
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
          "id" : "1d9d44498dfbe21c0648ac84bb744f8c0b504fe4",
-         "name" : "Wyngate Woods Neighborhood Park",
+         "name" : "Wyngate Park",
          "opening_hours" : {
             "open_now" : true
          },
@@ -137,7 +137,7 @@
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
          "id" : "505e61fd02e5c93f011df301919f0563629e9b4a",
-         "name" : "Caroline Freeland Urban Park",
+         "name" : "Caroline Park",
          "opening_hours" : {
             "open_now" : true
          },
